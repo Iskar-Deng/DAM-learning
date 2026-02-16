@@ -1,0 +1,10 @@
+venv/
+data/
+models/
+__pycache__/
+*.pyc
+logs/
+cache/
+checkpoints/
+configs/
+scripts/
